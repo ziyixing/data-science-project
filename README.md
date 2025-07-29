@@ -43,7 +43,7 @@ Tools and Libraries
 
 Skills Demonstrated
 
-- Python programming (basic and intermediate)
+- Python programming
 - Data manipulation with Pandas and NumPy
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
@@ -54,9 +54,7 @@ About the Projects
 
 These projects were created as part of a practical learning journey, inspired by industry-focused training materials from 365 Careers. The aim is to go beyond simplified examples by working with unrefined data and developing analysis workflows that reflect professional data analyst responsibilities.
 
-License
 
-This repository is intended for educational use. Content may be referenced or adapted with appropriate credit.
 
 
 
